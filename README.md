@@ -5,7 +5,7 @@ Hi, my name is Tony, I just finished High School, I am really passionate about g
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Azure Sentinel (SIEM)</b>
-  - [Azure Sentinel Map with Live failed RDP Logins](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Azure Sentinel Map with Live failed RDP Logins](https://github.com/Demblle/AzureSentinel/blob/main/README.md)
 
 <h2>👨‍💻 Web Development projects</h2>
 
